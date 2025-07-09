@@ -1,0 +1,45 @@
+{
+  "store_name": "tunishop",
+  "last_updated": "2024-03-15",
+  "categories": [
+    {
+      "category_id": "ELEC001",
+      "name": "Smartphones",
+      "products": [
+        {
+          "product_id": "SP001",
+          "name": "iPhone 15 Pro",
+          "brand": "Apple",
+          "price": 999.99,
+          "specifications": {
+            "screen_size": "6.1 inches",
+            "storage": "128GB",
+            "camera": "48MP Pro camera system"
+          },
+          "stock_quantity": 45,
+          "rating": 4.8
+        },
+        {
+          "product_id": "SP002",
+          "name": "Samsung Galaxy S24",
+          "brand": "Samsung",
+          "price": 849.99,
+          "specifications": {
+            "screen_size": "6.2 inches",
+            "storage": "256GB",
+            "camera": "50MP triple camera"
+          },
+          "stock_quantity": 32,
+          "rating": 4.6
+        }
+      ]
+    }
+  ],
+  "promotions": [
+    {
+      "title": "Spring Sale",
+      "discount": "15% off",
+      "valid_until": "2024-04-30"
+    }
+  ]
+}

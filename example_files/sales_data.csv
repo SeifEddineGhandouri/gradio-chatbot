@@ -1,0 +1,11 @@
+Date,Product,Category,Sales_Amount,Units_Sold,Region,Salesperson
+2024-01-15,Laptop Pro,Electronics,1200,2,North,John Smith
+2024-01-16,Office Chair,Furniture,350,5,South,Maria Garcia  
+2024-01-17,Wireless Mouse,Electronics,45,12,East,David Lee
+2024-01-18,Standing Desk,Furniture,800,3,West,Sarah Johnson
+2024-01-19,Smartphone,Electronics,900,8,North,John Smith
+2024-01-20,Bookshelf,Furniture,220,4,South,Maria Garcia
+2024-01-21,Tablet,Electronics,600,6,East,David Lee
+2024-01-22,Ergonomic Chair,Furniture,450,7,West,Sarah Johnson
+2024-01-23,Headphones,Electronics,150,15,North,John Smith
+2024-01-24,Coffee Table,Furniture,180,2,South,Maria Garcia
